@@ -1,1 +1,3 @@
 Added Code during Feature 2 push
+
+NicoDev: Added Code to Feature 1 Code
